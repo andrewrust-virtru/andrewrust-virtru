@@ -1,6 +1,3 @@
 ## Hello
-### _I'm @andrewrust-virtru_
-
-<!---
-This is a test of vim in VSCode
---->
+#### I'm Andrew: @andrewrust-virtru
+_Read more about me on [andrewrust.com](andrewrust.com)_
